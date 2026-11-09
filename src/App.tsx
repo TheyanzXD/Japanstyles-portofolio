@@ -34,7 +34,7 @@ export default function App() {
       <footer className="bg-[#121214] text-[#d8d8de] py-6 border-t border-[#2b2b30]">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-[#71717a]">
           <p className="font-serif text-white font-semibold">Izyan Danish — 墨絵 Sumi-e</p>
-          <p>© 2026 Izyan Danish (izyan.yyz.my.id)</p>
+          <p>© 2026 Izyan Danish</p>
         </div>
       </footer>
     </div>
