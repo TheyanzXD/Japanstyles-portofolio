@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { EducationScroll } from './components/EducationScroll';
