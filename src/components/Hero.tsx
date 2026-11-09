@@ -42,8 +42,8 @@ export const Hero: React.FC<HeroProps> = ({ isScrollOpen, onOpenScroll }) => {
             </div>
 
             <p className="text-sm sm:text-base text-[#4a4a52] leading-relaxed max-w-xl mx-auto lg:mx-0">
-              Talenta muda <strong className="text-[#121214] font-semibold">SMKN 1 Bangkinang Kota</strong> yang merancang pengalaman web interaktif berbasis <strong className="text-[#121214] font-semibold">JavaScript & TypeScript</strong> dalam balutan estetika seni tinta <strong className="text-[#121214] font-semibold">Sumi-e</strong>.
-            </p>
+  Talenta muda <strong className="text-[#121214] font-semibold">SMKN 1 Bangkinang Kota</strong> yang merancang pengalaman web interaktif berbasis <strong className="text-[#121214] font-semibold">JavaScript & TypeScript</strong>.
+</p>
 
             <div className="pt-2 flex justify-center lg:justify-start">
               <button
