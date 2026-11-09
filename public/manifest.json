@@ -1,0 +1,18 @@
+{
+  "name": "Izyan Danish — Portofolio Seni Tinta Sumi-e",
+  "short_name": "Izyan Danish",
+  "description": "Portofolio resmi dan riwayat pendidikan Izyan Danish (SMKN 1 Bangkinang Kota).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3eb",
+  "theme_color": "#f7f3eb",
+  "lang": "id-ID",
+  "icons": [
+    {
+      "src": "/izyan_avatar.webp",
+      "sizes": "600x600",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
